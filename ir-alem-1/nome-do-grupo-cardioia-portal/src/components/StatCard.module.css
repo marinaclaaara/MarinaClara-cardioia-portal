@@ -1,0 +1,3 @@
+.card { background:var(--card); border-radius:12px; padding:20px; box-shadow:0 2px 8px #0001; display:flex; flex-direction:column; gap:6px; min-width:200px; flex:1; }
+.card span { color:#667; }
+.card strong { font-size:2.2rem; color:var(--vermelho); }

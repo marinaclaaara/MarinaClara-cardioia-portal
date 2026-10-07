@@ -1,0 +1,29 @@
+Sintoma 1,Sintoma 2,Doença Associada
+dor no peito,esforço físico,Angina
+dor no peito,subo escadas,Angina
+aperto no peito,esforço físico,Angina
+dor no peito,suor frio,Infarto
+aperto no tórax,suor frio,Infarto
+aperto no tórax,dor no braço esquerdo,Infarto
+dor no peito,dor no braço esquerdo,Infarto
+cansaço constante,inchaço nas pernas,Insuficiência Cardíaca
+fadiga,inchaço nas pernas,Insuficiência Cardíaca
+cansaço constante,falta de ar ao deitar,Insuficiência Cardíaca
+palpitações,coração disparado,Arritmia
+palpitações,desmai,Arritmia
+coração disparado,tontura,Arritmia
+dor de cabeça forte,pressão alta,Hipertensão
+visão embaçada,pressão alta,Hipertensão
+zumbido no ouvido,pressão alta,Hipertensão
+dor no peito ao respirar,febre,Pericardite
+inclino para frente,dor no peito ao respirar,Pericardite
+febre persistente,sopro no coração,Endocardite
+febre persistente,fadiga,Endocardite
+falta de ar súbita,dor ao respirar,Embolia Pulmonar
+viagem longa,falta de ar súbita,Embolia Pulmonar
+virose,febre,Miocardite
+virose,dor no peito,Miocardite
+fadiga,febre baixa,Miocardite
+desmai,aperto no peito,Estenose Aórtica
+tontura,desmai,Estenose Aórtica
+subo escadas,desmai,Estenose Aórtica

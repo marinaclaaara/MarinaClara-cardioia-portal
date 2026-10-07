@@ -1,0 +1,4 @@
+:root { --vermelho:#c62839; --fundo:#f5f6fa; --texto:#1f2430; --card:#fff; }
+* { box-sizing: border-box; }
+body { margin:0; font-family: system-ui, Segoe UI, Roboto, sans-serif; background:var(--fundo); color:var(--texto); }
+a { color: var(--vermelho); }
