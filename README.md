@@ -1,8 +1,33 @@
 # CardioIA – Fase 2: Diagnóstico Automatizado – IA no Estetoscópio Digital
 
-**Autoria:** Marina Clara
-**Integrante:** Marina Clara Constantino Ribeiro – RM 568576
-**Vídeo de demonstração (YouTube, não listado):** _adicionar o link após a gravação_
+**Autoria:** Marina Clara Constantino Ribeiro e - Yasmin Kauane Silva Lima 
+**Integrantes:** Marina Clara Constantino Ribeiro – RM 568576  Yasmin Kauane Silva Lima - RM566645
+**Vídeo de demonstração (YouTube, não listado):
+# FIAP - Faculdade de Informática e Administração Paulista
+
+<p align="center">
+    <a href= "https://www.fiap.com.br/"><img src="assets/logo-fiap.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=40% height=40%></a>
+</p>
+
+<br>
+
+# CardioIA — Diagnóstico Automatizado com Inteligência Artificial
+
+## 👨‍🎓 Integrantes: 
+
+- Marina Clara Constantino Ribeiro - RM568576
+- Yasmin Kauane Silva Lima - RM566645
+
+## 👋 Visão Geral
+
+O CardioIA é um projeto acadêmico desenvolvido na FIAP com o objetivo de simular o uso de Inteligência Artificial como ferramenta de apoio ao diagnóstico e à triagem de pacientes na área de cardiologia.
+
+# 🎥 Demonstração
+
+O vídeo apresenta o funcionamento da solução desenvolvida na Fase 2.
+
+
+**Vídeo no YouTube:** [Assistir à demonstração](https://youtu.be/xVTydZK3dh4)
 
 Protótipo acadêmico de apoio ao diagnóstico em cardiologia. **Não substitui avaliação médica.**
 
