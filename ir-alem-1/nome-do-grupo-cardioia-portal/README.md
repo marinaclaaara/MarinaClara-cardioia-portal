@@ -1,7 +1,7 @@
 # nome-do-grupo-cardioia-portal
 
 **Autoria:** Marina Clara  |  **Integrante:** Marina Clara Constantino Ribeiro – RM 568576
-**Vídeo (YouTube, não listado):** _adicionar o link após a gravação_
+
 
 Portal front-end do CardioIA em **React + Vite**, com dados simulados.
 
