@@ -1,7 +1,6 @@
 # CardioIA – Ir Além 2: Diagnóstico visual de ECG com MLP (Keras)
 
 **Autoria:** Marina Clara  |  **Integrante:** Marina Clara Constantino Ribeiro – RM 568576
-**Vídeo (YouTube, não listado):** _adicionar o link após a gravação_
 
 Notebook `diagnostico_ecg_mlp.ipynb`: classifica batimentos de ECG como **normal** ou **anormal**.
 
