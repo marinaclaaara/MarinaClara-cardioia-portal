@@ -1,6 +1,6 @@
 # CardioIA – Fase 2: Diagnóstico Automatizado – IA no Estetoscópio Digital
 
-**Autoria:** Marina Clara Constantino Ribeiro e - Yasmin Kauane Silva Lima 
+**Autoria:** Marina Clara Constantino Ribeiro e Yasmin Kauane Silva Lima 
 **Integrantes:** Marina Clara Constantino Ribeiro – RM 568576  Yasmin Kauane Silva Lima - RM566645
 
 # FIAP - Faculdade de Informática e Administração Paulista
