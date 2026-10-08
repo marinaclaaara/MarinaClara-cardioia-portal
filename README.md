@@ -2,7 +2,7 @@
 
 **Autoria:** Marina Clara Constantino Ribeiro e - Yasmin Kauane Silva Lima 
 **Integrantes:** Marina Clara Constantino Ribeiro – RM 568576  Yasmin Kauane Silva Lima - RM566645
-**Vídeo de demonstração (YouTube, não listado):
+
 # FIAP - Faculdade de Informática e Administração Paulista
 
 <p align="center">
